@@ -19,6 +19,7 @@
 .fairy{background-color: #f9aec7;}
 
 
+    
 
     .normal:hover{
         box-shadow: 1px 1px #a6a877;
@@ -186,3 +187,9 @@
         grid-template-columns: 1fr 1fr 1fr 1fr;
     }
 }
+    h1{
+        text-align: center;
+    }
+    ol{
+        
+    }
